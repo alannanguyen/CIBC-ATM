@@ -1,4 +1,4 @@
 # CIBC-ATM
-High school Introduction to Computer Science
+High school Introduction to Computer Science project
 <br>
-Created created with Visual Basic in QB64
+Created with Visual Basic in QB64
