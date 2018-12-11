@@ -1,2 +1,3 @@
 # CIBC-ATM
-June 2013 High School Project
+High school project using Visual Basic and HTML 
+Created in QB64
