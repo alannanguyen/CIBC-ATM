@@ -3,11 +3,10 @@ High school Introduction to Computer Science project
 <br>
 Created with Visual Basic in QB64
 <br><hr>
-![Welcome Screen](https://user-images.githubusercontent.com/43625368/69473633-a7c87d80-0d84-11ea-8f87-8c97f8e3dd2b.JPG)
-![Login](https://user-images.githubusercontent.com/43625368/69473796-a26c3280-0d86-11ea-9d6a-ff1127cc868c.JPG)
-![Transaction Selection Screen](https://user-images.githubusercontent.com/43625368/69473737-b82d2800-0d85-11ea-859c-730fe186610c.JPG)
-![Deposit Receipt](https://user-images.githubusercontent.com/43625368/69473794-9a13f780-0d86-11ea-8958-e4676cef6dcb.JPG)
-![CIBC Logo 1](https://user-images.githubusercontent.com/43625368/69473634-b6af3000-0d84-11ea-94f7-98b291e7d85a.JPG)
-![CIBC Logo 2](https://user-images.githubusercontent.com/43625368/69473643-c7f83c80-0d84-11ea-9e5a-d66580613cc8.JPG)
-
-
+![Welcome Screen](https://user-images.githubusercontent.com/43625368/69473892-9b91ef80-0d87-11ea-8f9b-e03692ec3f56.png)
+![Login](https://user-images.githubusercontent.com/43625368/69473897-b06e8300-0d87-11ea-84ec-201a0d1867b9.png)
+![Transaction Selection Screen](https://user-images.githubusercontent.com/43625368/69473901-b3697380-0d87-11ea-901d-4d818bcc1c25.png)
+![Deposit](https://user-images.githubusercontent.com/43625368/69473902-b5cbcd80-0d87-11ea-8805-fac2958b3ebf.png)
+![Goodbye Message](https://user-images.githubusercontent.com/43625368/69473908-c67c4380-0d87-11ea-97ae-a12210f7cc66.png)
+![Logo 1](https://user-images.githubusercontent.com/43625368/69473904-b7959100-0d87-11ea-9d58-5c6d6b832293.png)
+![Logo 2](https://user-images.githubusercontent.com/43625368/69473905-b95f5480-0d87-11ea-88a2-9b3b8270e30c.png)
