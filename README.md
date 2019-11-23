@@ -3,5 +3,7 @@ High school Introduction to Computer Science project
 <br>
 Created with Visual Basic in QB64
 <br><hr>
-![Image of CIBC Welcome Page](https://raw.githubusercontent.com/alannanguyen/CIBC-ATM/master/Screenshots/WelcomePage.JPG | width=100)
-![Image of CIBC Logo](https://user-images.githubusercontent.com/43625368/49833187-c2b60380-fd66-11e8-978e-e42407a54708.png)
+![Welcome Screen](https://user-images.githubusercontent.com/43625368/69473633-a7c87d80-0d84-11ea-8f87-8c97f8e3dd2b.JPG)
+![CIBC Logo 1](https://user-images.githubusercontent.com/43625368/69473634-b6af3000-0d84-11ea-94f7-98b291e7d85a.JPG)
+![CIBC Logo 2](https://user-images.githubusercontent.com/43625368/69473643-c7f83c80-0d84-11ea-9e5a-d66580613cc8.JPG)
+
