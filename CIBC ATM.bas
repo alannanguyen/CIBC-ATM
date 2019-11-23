@@ -1,5 +1,7 @@
 REM Alanna Nguyen's CIBC ATM: gr.11 com-sci [June 17, 2013]
 
+_TITLE "CIBC ATM"
+
 DIM username AS STRING
 DIM password AS STRING
 DIM pin AS LONG
@@ -174,8 +176,8 @@ COLOR 15: PRINT " |                                        CIBC. For What Matter
 PRINT "   |______|"
 PRINT
 PRINT "________________________________________________________________________________"
-PRINT "    To Exit: ";
-COLOR 14: PRINT "Press '0'"
+' PRINT "    To Exit: ";
+' COLOR 14: PRINT "Press '0'"
 COLOR 15: PRINT "                                                         ___________________"
 PRINT "                                                        |                   |"
 COLOR 14: PRINT "                                             Press '1'  ";                                 
@@ -226,7 +228,7 @@ PRINT
 PRINT "         How much would you like to deposit?: ";
 COLOR 14: INPUT "", deposit
 
-LET total = balance + deposit
+LET totalD = balance + deposit
 3.5
 COLOR , 4: CLS
 PRINT
@@ -249,7 +251,7 @@ PRINT USING f$; deposit;
 PRINT , "|"
 PRINT "                      |                                 |"
 PRINT "                      |  Final Balance: ";
-PRINT USING f$; y;
+PRINT USING f$; totalD;
 PRINT , "|"
 PRINT "                      |_________________________________|"
 PRINT
@@ -299,7 +301,7 @@ IF withdraw > balance THEN
     GOTO 4
 END IF
 
-LET y = balance - withdraw
+LET totalW = balance - withdraw
 
 4.5
 COLOR , 4: CLS
@@ -323,7 +325,7 @@ PRINT USING f$; withdraw;
 PRINT , "|"
 PRINT "                      |                                 |"
 PRINT "                      |  Final Balance: ";
-PRINT USING f$; y;
+PRINT USING f$; totalW;
 PRINT , "|"
 PRINT "                      |_________________________________|"
 PRINT
