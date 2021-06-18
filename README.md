@@ -1,7 +1,7 @@
 # CIBC-ATM
 High school Introduction to Computer Science project
 <br>
-Written in QBasic using QB64
+Written in BASIC using QB64
 <br><hr>
 ![Welcome Screen](https://user-images.githubusercontent.com/43625368/69473892-9b91ef80-0d87-11ea-8f9b-e03692ec3f56.png)
 ![Login](https://user-images.githubusercontent.com/43625368/69473897-b06e8300-0d87-11ea-84ec-201a0d1867b9.png)
